@@ -1,0 +1,201 @@
+*{
+
+
+}
+
+body{
+    font-family: system-ui;
+    background-color: white;
+    display: flex;
+   
+    
+
+
+}
+.page{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    padding-left: 150px;
+    
+}
+.page_container{
+    background-color: #ffffff;
+    color: black;
+
+}
+.heading1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background-color:rgba(0, 0, 0, 0.993);
+    justify-content: space-evenly;
+    position: fixed;
+    height: 7vh;
+    width: 90rem;
+    
+    
+}
+.freeCodeCamp{
+color: white;
+}
+input{
+    width: 30vw;
+     height: 5vh;
+     font-size: 20px;
+     background-color: lightgrey;
+}
+p{
+    font-size: 150%;
+    color: white;
+}
+.heading2{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    color: white;
+    position: fixed;
+    margin-top: 45px;
+    width: 100rem;
+    height: 7vh;
+}
+a{
+    color: white;
+}
+.btn1{
+background-color: white;
+font-size: large;
+width: 8rem;
+}
+.btn2{
+    background-color: goldenrod ;
+    border-color: orange;
+    font-size: large;
+    height: 5vh;
+    width: 10vw;
+}
+p{
+    color: black;
+}
+span{
+    color: blue;
+}
+.sp1{
+    color: #AA336A;
+}
+.sp3{
+    color: green;
+}
+.image2{
+    display: flex;
+}
+.img1{
+    width: 10vh;
+    height: 5vw;
+}
+.img2{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    width: 80vw;
+}
+.text{
+    color: black;
+}
+.ul{
+    font-size: 25px;
+}
+.text3{
+    background-color: lightgray;
+    width: 40vw;
+    height: 13vh;
+    padding: 10px;
+    font-size: 20px;
+}
+.text4{
+    background-color: lightgray;
+    width: 40vw;
+    height: 35vh;
+    padding: 10px;
+    font-size: 20px;
+}
+.text5{
+    background-color: lightgray;
+    width: 40vw;
+    height: 20vh;
+    padding: 10px;
+    font-size: 20px;
+}
+.hr2{
+    color: black;
+}
+.conclusion{
+    display: flex;
+    align-items: center;
+}
+.btn3{
+    height: 5vh;
+    width: 8vw;
+    border-color: black;
+    font-size: 15px;
+    
+}
+.btn4{
+    height: 5vh;
+    width: 8vw;
+    border-color: black;
+    font-size: 15px;
+}
+.ad{
+    display: flex;
+    text-align:center;
+    justify-content: center;
+}
+.donation_link{
+    color: black;
+    font-size: large;
+    
+}
+
+.link{
+    color: black;
+    text-decoration: underline;
+}
+.last_table{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: lightslategray;
+    font-size: 16px;
+    width: 95vw;
+    height: 80vh;
+    color: black;
+    text-decoration-color: black;
+}
+.h3last{
+    
+    align-items: center;
+    justify-content: center;
+}
+.section1{
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-decoration: underline;
+    
+}
+.links{
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+@media screen and(min-width:480px) {
+    .main_body{display: grid;
+        
+    }
+    
+}
+
