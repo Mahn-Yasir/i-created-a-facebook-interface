@@ -1,0 +1,52 @@
+
+
+.main_body{
+
+    width: 28%;
+    background-color: whitesmoke;
+    height: 24rem;
+    margin:0 auto;
+    text-align: center;
+    font-weight: 100;
+    padding-top: 20px;
+}
+.facebook_txt{
+    width: 35qh;
+    color: darkblue;
+    text-align: center;
+    font-size: 50px;
+    border: none;
+    margin: 0 auto;
+    text-decoration:rebeccapurple;
+}
+.login{
+    background-color: blue;
+    width: 12rem;
+    text-align: center;
+    height: 2rem;
+    font-size: large;
+    border-radius: 10px;
+    color: white;
+}
+.new{
+    height: 3rem; 
+    width: 12rem;
+    background-color: green;  
+    font-size: large;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+
+}
+.one{
+    height: 2rem;
+    width: 20rem;
+    text-align: left;
+    font-size: large;
+}
+.two{
+    height: 2rem;
+    width: 20rem;
+    text-align: left;
+    font-size: large;
+}
